@@ -1,6 +1,6 @@
 # text-automation-bot:
 
-SMS bot that automates goodnight/goodmorning texts using Twilio's REST API and the Python scheduling library.
+SMS bot that automates goodnight/good morning texts using Twilio's REST API and the Python scheduling library.
 
 <br>
 
